@@ -1,1 +1,1 @@
-
+java -jar ..\Tools\KickAssembler\kickass.jar -execute "C:\GTK3VICE-3.7-win64\bin\x64sc.exe" ss.asm
